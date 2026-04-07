@@ -68,8 +68,8 @@
 #   print(i)
 # a = len(s) * (-1)
 # print (a)
-# for i in range (-1 ,-6 , -1) :
-#   print(i)
+for i in range (-1 ,-6 , -1) :
+  print(i)
 
 # for i in range (5):
 #   for j in range (i+1):
@@ -270,3 +270,6 @@ print(type(even))
 print(list(even))
 
 
+
+for i  in range (1 , 8 , 1) :
+  print (i)

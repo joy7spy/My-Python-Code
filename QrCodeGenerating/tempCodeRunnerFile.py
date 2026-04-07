@@ -1,0 +1,1 @@
+filename = input ("Enter the file name where qr will be saved in : ") 
